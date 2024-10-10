@@ -1,4 +1,4 @@
-# Rayal Park - Hotel Booking Website
+# Hotel Booking Website
 
 Rayal Park is a hotel booking website that provides a seamless experience for users looking to book accommodations at the Rayal Park Hotel. Built with **HTML**, **CSS**, and **JavaScript**, this project aims to offer an intuitive interface for users to explore available rooms, make reservations, and manage their bookings.
 
